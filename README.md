@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @DeDucKnight
 - 👀 I’m interested in 
 Programming, BigData, Data Science
-- 🌱 I’m currently learning
-Data Science in Coventry Uni
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Currently working as a Developer at iSeller Commerce
 - 📫 How to reach me
 LinkedIn:
-https://www.linkedin.com/in/alberto-tandya-b84a7916a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9xBALOtcR7OhmbnfjYzniA%3D%3D
+https://www.linkedin.com/in/alberto-tandya/
 
 
 <!---
